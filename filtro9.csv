@@ -1,0 +1,37 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+North America,ABW,Aruba,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+Europe,AND,Andorra,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+Antarctica,ATA,Antarctica,Antarctica,13120000.0,,0,,0.0,,,Co-administrated,,,AQ
+Antarctica,ATF,French Southern territories,Antarctica,7780.0,,0,,0.0,,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,,TF
+Oceania,AuS,Australia,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+Antarctica,BVT,Bouvet Island,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+North America,CAN,Canada,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+Oceania,CCK,Cocos (Keeling) Islands,Australia and New Zealand,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Europe,CHE,Switzerland,Western Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+Oceania,CXR,Christmas Island,Australia and New Zealand,135.0,,2500,,0.0,,Christmas Island,Territory of Australia,Elisabeth II,1791.0,CX
+North America,CYM,Cayman Islands,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+Europe,ESP,Spain,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+South America,FLK,Falkland Islands,South America,12173.0,,2000,,0.0,,Falkland Islands,Dependent Territory of the uK,Elisabeth II,763.0,FK
+Europe,FRO,Faroe Islands,Nordic Countries,1399.0,,43000,78.4,0.0,,Foroyar,Part of Denmark,Margrethe II,901.0,FO
+Europe,GIB,Gibraltar,Southern Europe,6.0,,25000,79.0,258.0,,Gibraltar,Dependent Territory of the uK,Elisabeth II,915.0,GI
+Asia,HKG,Hong Kong,Eastern Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+Antarctica,HMD,Heard Island and McDonald Islands,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+Africa,IOT,British Indian Ocean Territory,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+Asia,JPN,Japan,Eastern Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+Europe,LIE,Liechtenstein,Western Europe,160.0,1806.0,32300,78.8,1119.0,1084.0,Liechtenstein,Constitutional Monarchy,Hans-Adam II,2446.0,LI
+Asia,MAC,Macao,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+Europe,MCO,Monaco,Western Europe,1.5,1861.0,34000,78.8,776.0,,Monaco,Constitutional Monarchy,Rainier III,2695.0,MC
+North America,MTQ,Martinique,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+Oceania,NFK,Norfolk Island,Australia and New Zealand,36.0,,2000,,0.0,,Norfolk Island,Territory of Australia,Elisabeth II,2806.0,NF
+Oceania,NIu,Niue,Polynesia,260.0,,2000,,0.0,,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805.0,Nu
+Europe,NLD,Netherlands,Western Europe,41526.0,1581.0,15864000,78.3,371362.0,360478.0,Nederland,Constitutional Monarchy,Willem-Alexander,5.0,NL
+Europe,NOR,Norway,Nordic Countries,323877.0,1905.0,4478500,78.7,145895.0,153370.0,Norge,Constitutional Monarchy,Harald V,2807.0,NO
+Oceania,PCN,Pitcairn,Polynesia,49.0,,50,,0.0,,Pitcairn,Dependent Territory of the uK,Elisabeth II,2912.0,PN
+Antarctica,SGS,South Georgia and the South Sandwich Islands,Antarctica,3903.0,,0,,0.0,,South Georgia and the South Sandwich Islands,Dependent Territory of the uK,Elisabeth II,,GS
+Europe,SJM,Svalbard and Jan Mayen,Nordic Countries,62422.0,,3200,,0.0,,Svalbard og Jan Mayen,Dependent Territory of Norway,Harald V,938.0,SJ
+Europe,SWE,Sweden,Nordic Countries,449964.0,836.0,8861400,79.6,226492.0,227757.0,Sverige,Constitutional Monarchy,Carl XVI Gustaf,3048.0,SE
+Oceania,TKL,Tokelau,Polynesia,12.0,,2000,,0.0,,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333.0,TK
+Oceania,uMI,united States Minor Outlying Islands,Micronesia/Caribbean,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+Europe,VAT,Holy See (Vatican City State),Southern Europe,0.4,1929.0,1000,,9.0,,Santa Sede/Citta del Vaticano,Independent Church State,Johannes Paavali II,3538.0,VA
+North America,VIR,"Virgin Islands, u.S.",Caribbean,347.0,,93000,78.1,0.0,,Virgin Islands of the united States,uS Territory,George W. Bush,4067.0,VI
+Oceania,WLF,Wallis and Futuna,Polynesia,200.0,,15000,,0.0,,Wallis-et-Futuna,Nonmetropolitan Territory of France,Jacques Chirac,3536.0,WF

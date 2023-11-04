@@ -1,0 +1,240 @@
+,code,life_expectancy,local_name
+0,ABW,78.4,Aruba
+1,AFG,45.9,Afganistan/Afqanestan
+2,AGO,38.3,Angola
+3,AIA,76.1,Anguilla
+4,ALB,71.6,Shqiperia
+5,AND,83.5,Andorra
+6,ANT,74.7,Nederlandse Antillen
+7,ARE,74.1,Al-Imarat al- Arabiya al-Muttahida
+8,ARG,75.1,Argentina
+9,ARM,66.4,Hajastan
+10,ASM,75.1,Amerika Samoa
+11,ATA,,
+12,ATF,,Terres australes francaises
+13,ATG,70.5,Antigua and Barbuda
+14,AuS,79.8,Australia
+15,AuT,77.7,osterreich
+16,AZE,62.9,Azarbaycan
+17,BDI,46.2,Burundi/uburundi
+18,BEL,77.8,Belgie/Belgique
+19,BEN,50.2,Benin
+20,BFA,46.7,Burkina Faso
+21,BGD,60.2,Bangladesh
+22,BGR,70.9,Balgarija
+23,BHR,73.0,Al-Bahrayn
+24,BHS,71.1,The Bahamas
+25,BIH,71.5,Bosna i Hercegovina
+26,BLR,68.0,Belarus
+27,BLZ,70.9,Belize
+28,BMu,76.9,Bermuda
+29,BOL,63.7,Bolivia
+30,BRA,62.9,Brasil
+31,BRB,73.0,Barbados
+32,BRN,73.6,Brunei Darussalam
+33,BTN,52.4,Druk-Yul
+34,BVT,,Bouvetoya
+35,BWA,39.3,Botswana
+36,CAF,44.0,Centrafrique/Be-Afrika
+37,CAN,79.4,Canada
+38,CCK,,Cocos (Keeling) Islands
+39,CHE,79.6,Schweiz/Suisse/Svizzera/Svizra
+40,CHL,75.7,Chile
+41,CHN,71.4,Zhongquo
+42,CIV,45.2,Cote dIvoire
+43,CMR,54.8,Cameroun/Cameroon
+44,COD,48.8,Republique Democratique du Congo
+45,COG,47.4,Congo
+46,COK,71.1,The Cook Islands
+47,COL,70.3,Colombia
+48,COM,60.0,Komori/Comores
+49,CPV,68.9,Cabo Verde
+50,CRI,75.8,Costa Rica
+51,CuB,76.2,Cuba
+52,CXR,,Christmas Island
+53,CYM,78.9,Cayman Islands
+54,CYP,76.7,Kypros/Kibris
+55,CZE,74.5,esko
+56,DEu,77.4,Deutschland
+57,DJI,50.8,Djibouti/Jibuti
+58,DMA,73.4,Dominica
+59,DNK,76.5,Danmark
+60,DOM,73.2,Republica Dominicana
+61,DZA,69.7,Al-Jazair/Algerie
+62,ECu,71.1,Ecuador
+63,EGY,63.3,Misr
+64,ERI,55.8,Ertra
+65,ESH,49.8,As-Sahrawiya
+66,ESP,78.8,Espana
+67,EST,69.5,Eesti
+68,ETH,45.2,YeItyop iya
+69,FIN,77.4,Suomi
+70,FJI,67.9,Fiji Islands
+71,FLK,,Falkland Islands
+72,FRA,78.8,France
+73,FRO,78.4,Foroyar
+74,FSM,68.6,Micronesia
+75,GAB,50.1,Le Gabon
+76,GBR,77.7,united Kingdom
+77,GEO,64.5,Sakartvelo
+78,GHA,57.4,Ghana
+79,GIB,79.0,Gibraltar
+80,GIN,45.6,Guinee
+81,GLP,77.0,Guadeloupe
+82,GMB,53.2,The Gambia
+83,GNB,49.0,Guine-Bissau
+84,GNQ,53.6,Guinea Ecuatorial
+85,GRC,78.4,Ellada
+86,GRD,64.5,Grenada
+87,GRL,68.1,Kalaallit Nunaat/Gronland
+88,GTM,66.2,Guatemala
+89,GuF,76.1,Guyane francaise
+90,GuM,77.8,Guam
+91,GuY,64.0,Guyana
+92,HKG,79.5,Xianggang/Hong Kong
+93,HMD,,Heard and McDonald Islands
+94,HND,69.9,Honduras
+95,HRV,73.7,Hrvatska
+96,HTI,49.2,Haiti/Dayti
+97,HuN,71.4,Magyarorszag
+98,IDN,68.0,Indonesia
+99,IND,62.5,Bharat/India
+100,IOT,,British Indian Ocean Territory
+101,IRL,76.8,Ireland/eire
+102,IRN,69.7,Iran
+103,IRQ,66.5,Al- Iraq
+104,ISL,79.4,Island
+105,ISR,78.6,Yisrael/Israil
+106,ITA,79.0,Italia
+107,JAM,75.2,Jamaica
+108,JOR,77.4,Al-urdunn
+109,JPN,80.7,Nihon/Nippon
+110,KAZ,63.2,Qazaqstan
+111,KEN,48.0,Kenya
+112,KGZ,63.4,Kyrgyzstan
+113,KHM,56.5,Kampuchea
+114,KIR,59.8,Kiribati
+115,KNA,70.7,Saint Kitts and Nevis
+116,KOR,74.4,Taehan Minguk (Namhan)
+117,KWT,76.1,Al-Kuwayt
+118,LAO,53.1,Lao
+119,LBN,71.3,Lubnan
+120,LBR,51.0,Liberia
+121,LBY,75.5,Libiya
+122,LCA,72.3,Saint Lucia
+123,LIE,78.8,Liechtenstein
+124,LKA,71.8,Sri Lanka/Ilankai
+125,LSO,50.8,Lesotho
+126,LTu,69.1,Lietuva
+127,LuX,77.1,Luxembourg/Letzebuerg
+128,LVA,68.4,Latvija
+129,MAC,81.6,Macau/Aomen
+130,MAR,69.1,Al-Maghrib
+131,MCO,78.8,Monaco
+132,MDA,64.5,Moldova
+133,MDG,55.0,Madagasikara/Madagascar
+134,MDV,62.2,Dhivehi Raajje/Maldives
+135,MEX,71.5,Mexico
+136,MHL,65.5,Marshall Islands/Majol
+137,MKD,73.8,Makedonija
+138,MLI,46.7,Mali
+139,MLT,77.9,Malta
+140,MMR,54.9,Myanma Pye
+141,MNG,67.3,Mongol uls
+142,MNP,75.5,Northern Mariana Islands
+143,MOZ,37.5,Mocambique
+144,MRT,50.8,Muritaniya/Mauritanie
+145,MSR,78.0,Montserrat
+146,MTQ,78.3,Martinique
+147,MuS,71.0,Mauritius
+148,MWI,37.6,Malawi
+149,MYS,70.8,Malaysia
+150,MYT,59.5,Mayotte
+151,NAM,42.5,Namibia
+152,NCL,72.8,Nouvelle-Caledonie
+153,NER,41.3,Niger
+154,NFK,,Norfolk Island
+155,NGA,51.6,Nigeria
+156,NIC,68.7,Nicaragua
+157,NIu,,Niue
+158,NLD,78.3,Nederland
+159,NOR,78.7,Norge
+160,NPL,57.8,Nepal
+161,NRu,60.8,Naoero/Nauru
+162,NZL,77.8,New Zealand/Aotearoa
+163,OMN,71.8, uman
+164,PAK,61.1,Pakistan
+165,PAN,75.5,Panama
+166,PCN,,Pitcairn
+167,PER,70.0,Peru/Piruw
+168,PHL,67.5,Pilipinas
+169,PLW,68.6,Belau/Palau
+170,PNG,63.1,Papua New Guinea/Papua Niugini
+171,POL,73.2,Polska
+172,PRI,75.6,Puerto Rico
+173,PRK,70.7,Choson Minjujuui In min Konghwaguk (Bukhan)
+174,PRT,75.8,Portugal
+175,PRY,73.7,Paraguay
+176,PSE,71.4,Filastin
+177,PYF,74.8,Polynesie francaise
+178,QAT,72.4,Qatar
+179,REu,72.7,Reunion
+180,ROM,69.9,Romania
+181,RuS,67.2,Rossija
+182,RWA,39.3,Rwanda/urwanda
+183,SAu,67.8,Al- Arabiya as-Sa udiya
+184,SDN,56.6,As-Sudan
+185,SEN,62.2,Senegal/Sounougal
+186,SGP,80.1,Singapore/Singapura/Xinjiapo/Singapur
+187,SGS,,South Georgia and the South Sandwich Islands
+188,SHN,76.8,Saint Helena
+189,SJM,,Svalbard og Jan Mayen
+190,SLB,71.3,Solomon Islands
+191,SLE,45.3,Sierra Leone
+192,SLV,69.7,El Salvador
+193,SMR,81.1,San Marino
+194,SOM,46.2,Soomaaliya
+195,SPM,77.6,Saint-Pierre-et-Miquelon
+196,STP,65.3,Sao Tome e PrIncipe
+197,SuR,71.4,Suriname
+198,SVK,73.7,Slovensko
+199,SVN,74.9,Slovenija
+200,SWE,79.6,Sverige
+201,SWZ,40.4,kaNgwane
+202,SYC,70.4,Sesel/Seychelles
+203,SYR,68.5,Suriya
+204,TCA,73.3,The Turks and Caicos Islands
+205,TCD,50.5,Tchad/Tshad
+206,TGO,54.7,Togo
+207,THA,68.6,Prathet Thai
+208,TJK,64.1,Tocikiston
+209,TKL,,Tokelau
+210,TKM,60.9,Turkmenostan
+211,TMP,46.0,Timor Timur
+212,TON,67.9,Tonga
+213,TTO,68.0,Trinidad and Tobago
+214,TuN,73.7,Tunis/Tunisie
+215,TuR,71.0,Turkiye
+216,TuV,66.3,Tuvalu
+217,TWN,76.4,Tai-wan
+218,TZA,52.3,Tanzania
+219,uGA,42.9,uganda
+220,uKR,66.0,ukrajina
+221,uMI,,united States Minor Outlying Islands
+222,uRY,75.2,uruguay
+223,uSA,77.1,united States
+224,uZB,63.7,uzbekiston
+225,VAT,,Santa Sede/Citta del Vaticano
+226,VCT,72.3,Saint Vincent and the Grenadines
+227,VEN,73.1,Venezuela
+228,VGB,75.4,British Virgin Islands
+229,VIR,78.1,Virgin Islands of the united States
+230,VNM,69.3,Viet Nam
+231,VuT,60.6,Vanuatu
+232,WLF,,Wallis-et-Futuna
+233,WSM,69.2,Samoa
+234,YEM,59.8,Al-Yaman
+235,YuG,72.4,Jugoslavija
+236,ZAF,51.1,South Africa
+237,ZMB,37.2,Zambia
+238,ZWE,37.8,Zimbabwe

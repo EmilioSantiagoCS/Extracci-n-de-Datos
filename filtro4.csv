@@ -1,0 +1,98 @@
+continent,code,name,region
+Europe,ALB,Albania,Southern Europe
+Europe,AND,Andorra,Southern Europe
+Europe,AuT,Austria,Western Europe
+Europe,BEL,Belgium,Western Europe
+Europe,BGR,Bulgaria,Eastern Europe
+Europe,BIH,Bosnia and Herzegovina,Southern Europe
+Europe,BLR,Belarus,Eastern Europe
+Europe,CHE,Switzerland,Western Europe
+Europe,CZE,Czech Republic,Eastern Europe
+Europe,DEu,Germany,Western Europe
+Europe,DNK,Denmark,Nordic Countries
+Europe,ESP,Spain,Southern Europe
+Europe,EST,Estonia,Baltic Countries
+Europe,FIN,Finland,Nordic Countries
+Europe,FRA,France,Western Europe
+Europe,FRO,Faroe Islands,Nordic Countries
+Europe,GBR,united Kingdom,British Islands
+Europe,GIB,Gibraltar,Southern Europe
+Europe,GRC,Greece,Southern Europe
+Europe,HRV,Croatia,Southern Europe
+Europe,HuN,Hungary,Eastern Europe
+Europe,IRL,Ireland,British Islands
+Europe,ISL,Iceland,Nordic Countries
+Europe,ITA,Italy,Southern Europe
+Europe,LIE,Liechtenstein,Western Europe
+Europe,LTu,Lithuania,Baltic Countries
+Europe,LuX,Luxembourg,Western Europe
+Europe,LVA,Latvia,Baltic Countries
+Europe,MCO,Monaco,Western Europe
+Europe,MDA,Moldova,Eastern Europe
+Europe,MKD,Macedonia,Southern Europe
+Europe,MLT,Malta,Southern Europe
+Europe,NLD,Netherlands,Western Europe
+Europe,NOR,Norway,Nordic Countries
+Europe,POL,Poland,Eastern Europe
+Europe,PRT,Portugal,Southern Europe
+Europe,ROM,Romania,Eastern Europe
+Europe,RuS,Russian Federation,Eastern Europe
+Europe,SJM,Svalbard and Jan Mayen,Nordic Countries
+Europe,SMR,San Marino,Southern Europe
+Europe,SVK,Slovakia,Eastern Europe
+Europe,SVN,Slovenia,Southern Europe
+Europe,SWE,Sweden,Nordic Countries
+Europe,uKR,ukraine,Eastern Europe
+Europe,VAT,Holy See (Vatican City State),Southern Europe
+Europe,YuG,Yugoslavia,Southern Europe
+Asia,AFG,Afghanistan,Southern and Central Asia
+Asia,ARE,united Arab Emirates,Middle East
+Asia,ARM,Armenia,Middle East
+Asia,AZE,Azerbaijan,Middle East
+Asia,BGD,Bangladesh,Southern and Central Asia
+Asia,BHR,Bahrain,Middle East
+Asia,BRN,Brunei,Southeast Asia
+Asia,BTN,Bhutan,Southern and Central Asia
+Asia,CHN,China,Eastern Asia
+Asia,CYP,Cyprus,Middle East
+Asia,GEO,Georgia,Middle East
+Asia,HKG,Hong Kong,Eastern Asia
+Asia,IDN,Indonesia,Southeast Asia
+Asia,IND,India,Southern and Central Asia
+Asia,IRN,Iran,Southern and Central Asia
+Asia,IRQ,Iraq,Middle East
+Asia,ISR,Israel,Middle East
+Asia,JOR,Jordan,Middle East
+Asia,JPN,Japan,Eastern Asia
+Asia,KAZ,Kazakstan,Southern and Central Asia
+Asia,KGZ,Kyrgyzstan,Southern and Central Asia
+Asia,KHM,Cambodia,Southeast Asia
+Asia,KOR,South Korea,Eastern Asia
+Asia,KWT,Kuwait,Middle East
+Asia,LAO,Laos,Southeast Asia
+Asia,LBN,Lebanon,Middle East
+Asia,LKA,Sri Lanka,Southern and Central Asia
+Asia,MAC,Macao,Eastern Asia
+Asia,MDV,Maldives,Southern and Central Asia
+Asia,MMR,Myanmar,Southeast Asia
+Asia,MNG,Mongolia,Eastern Asia
+Asia,MYS,Malaysia,Southeast Asia
+Asia,NPL,Nepal,Southern and Central Asia
+Asia,OMN,Oman,Middle East
+Asia,PAK,Pakistan,Southern and Central Asia
+Asia,PHL,Philippines,Southeast Asia
+Asia,PRK,North Korea,Eastern Asia
+Asia,PSE,Palestine,Middle East
+Asia,QAT,Qatar,Middle East
+Asia,SAu,Saudi Arabia,Middle East
+Asia,SGP,Singapore,Southeast Asia
+Asia,SYR,Syria,Middle East
+Asia,THA,Thailand,Southeast Asia
+Asia,TJK,Tajikistan,Southern and Central Asia
+Asia,TKM,Turkmenistan,Southern and Central Asia
+Asia,TMP,East Timor,Southeast Asia
+Asia,TuR,Turkey,Middle East
+Asia,TWN,Taiwan,Eastern Asia
+Asia,uZB,uzbekistan,Southern and Central Asia
+Asia,VNM,Vietnam,Southeast Asia
+Asia,YEM,Yemen,Middle East
